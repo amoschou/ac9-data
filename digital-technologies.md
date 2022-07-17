@@ -33,8 +33,8 @@ Figure 1 shows the strand and sub-strand structure for Digital Technologies.
 
 ```mermaid
 flowchart TD
-    D[Digital technologies] --- K[Knowledge and understanding<br><br>Digital systems<br>Data representation]
-    D --- P[Processes and production skills<br><br>Acquiring, managing and analysing data<br>Investigating and defining<br>Generating and designing<br>Producing and implementing<br>Evaluating<br>Collaborating and managing<br>Privacy and security]
+    D[Digital technologies] --- K[<b>Knowledge and understanding</b><br>Digital systems<br>Data representation]
+    D --- P[<b>Processes and production skills</b><br>Acquiring, managing and analysing data<br>Investigating and defining<br>Generating and designing<br>Producing and implementing<br>Evaluating<br>Collaborating and managing<br>Privacy and security]
 ```
 > Figure 1: Digital Technologies content structure
 
